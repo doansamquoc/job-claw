@@ -53,14 +53,14 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--  -->
+		<!-- Http Client -->
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
 			<artifactId>okhttp</artifactId>
 			<version>${okhttp.version}</version>
 		</dependency>
 
-		<!--  -->
+		<!-- Flyway Migration -->
 		<dependency>
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
